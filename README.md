@@ -25,7 +25,6 @@
 > 내가 원하는 부동산 정보를 `빠르게 탐색`하고 </br>
 > `투자 추천`부터 `토론`까지 함께 해보아요!
 
-
 <br />
 
 <div id="2"></div>
@@ -37,33 +36,34 @@
     <td align="center" width="180"><strong>Front-end 기술 스택</strong></td>
     <td>
       <div>
-        <img src="https://img.shields.io/badge/JavaScript-3178C6?&logo=javascript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vue.js-61DAFB?&logo=vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pinia-FF4154?&logo=pinia&logoColor=white"/>
-        <img src="https://img.shields.io/badge/vite-C865B9?&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Axios-5A29E4?&logo=Axios&logoColor=white"/>
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+        <img src="https://img.shields.io/badge/pinia-FFCD11?style=for-the-badge&logo=pinia&logoColor=white"> 
+        <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> 
+        <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> 
       </div>
     </td>
   </tr>
   <tr>
     <td align="center" width="180"><strong>Back-end 기술 스택</strong></td>
     <td>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=  &logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=  &logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MyBatis-212121?style=  &logo=mybatis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/MyBatis-212121?logo=mybatis&style=for-the-badge&logoColor=white">
     </td>
   </tr>
   <tr>
     <td align="center" width="180"><strong>Server 기술 스택</strong></td>
     <td>
-        <img src="https://img.shields.io/badge/NGINX-009639?style=  &logo=nginx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=  &logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AmazonRDS-232F3E?style=  &logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NGINX-009639?&logo=nginx&style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazone RDS-527FFF?logo=amazonrds&style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/letsencrypt-003A70?logo=letsencrypt&style=for-the-badge&logoColor=white">
   </tr>
     <tr>
     <td align="center"><strong>Artificial Intelligence</strong></td>
     <td>
-      RAG, openAI
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
     </td>
   </tr>
   <tr>
